@@ -1,0 +1,11 @@
+<Extensions>
+  <Version>1.6</Version>
+  <Panel>
+    <PanelId>panelist_join_event</PanelId>
+    <Type>Home</Type>
+    <Icon>Webex</Icon>
+    <Order>1</Order>
+    <Name>JoinEvent</Name>
+    <ActivityType>Custom</ActivityType>
+  </Panel>
+</Extensions>
